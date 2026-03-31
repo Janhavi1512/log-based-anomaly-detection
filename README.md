@@ -39,3 +39,12 @@ Otherwise, it is marked as **Normal**.
 ```bash
 pip install pandas matplotlib
 python anomaly.py
+
+
+## Output Screenshots
+
+### Output Table
+![Output Table](Output_Table.png)
+
+### Output Chart
+![Output Chart](Output_Chart.png)
